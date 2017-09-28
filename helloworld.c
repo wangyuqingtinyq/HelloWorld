@@ -3,8 +3,8 @@
 int main(){
 
 printf("HelloWorld!\n");
-printf("HelloWangyuqing!\n")
-printf("HelloJianghan!\n")
+printf("HelloWangyuqing!\n");
+printf("HelloJianghan!\n");
 return 0;
 
 
