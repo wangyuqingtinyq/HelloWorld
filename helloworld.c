@@ -3,6 +3,7 @@
 int main(){
 
 printf("HelloWorld!\n");
+printf("HelloWangyuqing!\n")
 return 0;
 
 
